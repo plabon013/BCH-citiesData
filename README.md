@@ -26,4 +26,4 @@ The app fetches country data from this endpoint:
 
 [BackEnd_server/cities](https://local-api-data-fetch-countries-backend.vercel.app/cities)
 
-The API returns a list of states, each containing a list of cities.
+The API returns a list of states, each containing a list of cities.....
